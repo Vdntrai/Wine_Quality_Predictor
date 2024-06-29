@@ -1,7 +1,7 @@
 
 # Wine Quality Predictor using Random Forest Classifier
 
-This project builds a machine learning model to predict wine quality using its chemical properties. It explores a publicly available wine dataset, trains a Random Forest model, and analyzes the factors influencing quality through data visualization. The project aims to provide a tool for winemakers, distributors, and enthusiasts to better understand and predict wine quality.
+This project builds a machine learning model to predict wine quality using its chemical properties. It explores a publicly available wine dataset, trains a Random Forest model, and analyzes the factors influencing quality through data visualization.
 
 ## Table of Contents
 
